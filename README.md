@@ -1,6 +1,6 @@
-# Emotion Recognition System
+# Emo-Res50V2: Emotion Recognition System
 
-This repository contains two main Jupyter notebooks that work together to build and test an emotion recognition system using deep learning and computer vision.
+This repository contains two main Jupyter notebooks that work together to build and test an emotion recognition system using deep learning and computer vision for mental health detection.
 
 ## 📁 Project Structure
 
@@ -48,4 +48,4 @@ Open Application.ipynb to:
 
 ## 🧠 Model
 
-The model uses ResNet50v2 as the base with added layers for emotion classification. Transfer learning ensures faster convergence and better accuracy on small datasets.
+The model uses ResNet50v2 as the base with added layers for emotion classification. Transfer learning ensures faster convergence and better accuracy on small datasets. And a survey to generate mental health score for mental health condition 
